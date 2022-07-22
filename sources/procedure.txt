@@ -1,0 +1,86 @@
+1. buyer
+verify the existing land documents
+involvement of mediators to fix the rates
+take all the linked documents and verify them
+go to registrar office
+buyer, seller, 2 witness register the documents by writing a new document from the existing document on the name of buyer
+
+2. seller
+fix the rates
+verify documents
+take the amount in the form of DD as per govt value
+go to registrar office
+buyer, seller, 2 witness register the documents by writing a new document from the existing document on the name of buyer
+
+documents:
+- original document
+- link documents involves the previous buyers original documents are  given to new buyer
+- DD
+- plan of the site
+
+proofs
+- adhar - b/s/w
+- pan - b/s
+- photos - b/s/w
+
+
+register office stores:
+office ledger will have a serial number ID (2022/---)
+newly written document will be assigned with a ID that is there in the ledger
+all documents are scanned( DD no, bank name, buyer, seller, witness names is written inside document)
+site plan( aprooved bu UDA)
+-adhar - b/s/w
+- pan - b/s
+- photos - b/s/w
+-finger prints - b/s/w
+plot photo stored
+plot route map stored
+challan copy
+
+register office
+new doc is scanned
+- new doc contents
+	- DD no, bank name, amt
+	- buyer, seller, witness
+	- previous sellers info
+- challan copy
+- land plan
+- route map
+- plot photo
+-adhar - b/s/w
+- pan - b/s
+- photos - b/s/w
+-finger prints - b/s/w
+
+buyer will take
+new document, and existing link documents
+
+seller will take
+DD
+
+proof
+adhar
+pan
+photos
+finger
+
+people:
+buyer
+seller
+mediators 
+registar/ superindent(if registar is not there) - checks if challan is paid as per govt value
+attender
+document writer - verifies the land documents, check for double registrations
+
+frauds
+-double registration - one seller, 2 buyers - fake docs - who registered the first, they are only viable 2nd buyer is not eligible
+- plan faults
+
+lost documents
+- case filed at police, paper Ad through a lawyer to respond by 15 days
+- if there is no response, we take the scanned copies from the registrar with the case copies as a prooff
+
+costs:
+reg cost for govt - as challan in bank - issue recipt
+
+register office responsibility is only to register the land, there is no responsibility for the background verification
